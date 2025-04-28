@@ -5,8 +5,8 @@ How to Run:
     https://localhost:{port}/swagger  
 
 How to Run Tests:  
--In Visual Studio, open the Test Explorer window.  
--Click Run All Tests to execute the unit tests in the ExchangeService.Tests project.  
+- In Visual Studio, open the Test Explorer window.  
+- Click Run All Tests to execute the unit tests in the ExchangeService.Tests project.  
 
 Caveats:  
 - Only AUD to USD conversion is supported.  
